@@ -40,3 +40,8 @@ body {
      font-family: 'Poppins', sans-serif;
      box-shadow: rgba(0, 0, 0, 0.30) 0px 6px 12px 2px
 }
+.register:hover{
+    cursor: pointer;
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+}
