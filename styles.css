@@ -3,11 +3,11 @@ body {
     background-color: hsl(257, 40%, 49%);
     padding: 3rem;
 }
-.page{
+.pagex{
     display: flex;
     flex-direction: row;
 }
-.logo{
+.top-title{
     width: 13rem;
 }
 .img {
@@ -44,4 +44,14 @@ body {
     cursor: pointer;
     background-color: hsl(300, 69%, 71%);
     color: white;
+}
+.soc-icon {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid hsl(0, 100%, 100%);
+    border-radius: 50%;
+    padding: 16px;
 }
